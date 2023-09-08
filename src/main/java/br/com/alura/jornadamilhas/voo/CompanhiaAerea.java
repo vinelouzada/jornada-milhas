@@ -1,7 +1,9 @@
 package br.com.alura.jornadamilhas.voo;
 
-public enum Companhias {
-    AZUL,
+public enum CompanhiaAerea {
+
     GOL,
+    AZUL,
     LATAM
+
 }
